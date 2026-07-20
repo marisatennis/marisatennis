@@ -10,7 +10,7 @@ I design and deliver data & AI solutions for enterprise clients across industrie
 
 **Enterprise data platform accelerators** — a toolkit for standing up production-grade Microsoft Fabric platforms quickly:
 
-- **[fabric-data-platform-agents](https://github.com/marisatennis/fabric-data-platform-agents)** — agentic data platform builder for Microsoft Fabric: discovery, build, and observability agents.
+- **[fabric-data-platform-agents](https://github.com/marisatennis/fabric-data-platform-agents)** — agentic data platform builder for Microsoft Fabric: discovery, build, and observability agents. Live console: [agents.shesmi.com](https://agents.shesmi.com).
 - **[delta-gen](https://github.com/marisatennis/delta-gen)** — declarative, YAML-driven lakehouse transformation engine for Spark/Fabric.
 - **[delta-gen-template](https://github.com/marisatennis/delta-gen-template)** — a medallion (Bronze/Silver/Gold) data platform template built on Delta-Gen.
 
